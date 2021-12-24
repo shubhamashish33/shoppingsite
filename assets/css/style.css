@@ -41,8 +41,12 @@ nav{
     list-style: none;
 }
 .navlink{
-    color: #4D4D4D;
+    color: #a5a5a5;
     font-size: 18px;
+}
+a:hover{
+    color: #4D4D4D;
+    text-decoration: underline solid #4D4D4D;
 }
 .logo1,.cart1{
     width: 30px;
@@ -97,6 +101,10 @@ nav{
     font-size: 16px;
     color: white;
     margin: 30px 0px 0px 30px;
+}
+.cta-add:hover{
+    background: #1d6cff;
+    font-weight: 500;
 }
 
 @keyframes drop {
