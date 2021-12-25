@@ -1,6 +1,7 @@
 # Shopping Site
-Demo website to show the product with cool animation \
+Demo website to show the cool products with the animations. \
 [Visit Now🚀](https://shubhamashish33.github.io/shoppingsite/)
+
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/78084828/147365022-8c5e20fc-da0c-4f69-b1a2-ac2748b2b43b.png)
 
